@@ -1,0 +1,7 @@
+[package]
+name = "manpages"
+version = "0.2.0"
+authors = ["Eric Le Bihan <eric.le.bihan.dev@free.fr>"]
+
+[dependencies]
+regex = "0.2"
