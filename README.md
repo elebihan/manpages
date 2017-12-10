@@ -11,7 +11,7 @@ also add this crate to your `Cargo.toml` via:
 
 ```toml
 [build-dependencies]
-manpages = "0.1"
+manpages = "0.2"
 ```
 
 Next up, assuming the MAN pages input files are in the ``man`` directory, you'll

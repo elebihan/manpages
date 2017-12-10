@@ -15,7 +15,7 @@
 //!
 //! ```toml
 //! [build-dependencies]
-//! manpages = "0.1"
+//! manpages = "0.2"
 //! ```
 //!
 //! The purpose of this crate is to provide the utility functions necessary to
